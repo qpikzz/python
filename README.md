@@ -1,2 +1,2 @@
 # python
-my python projects
+my small python projects
